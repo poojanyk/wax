@@ -1,0 +1,23 @@
+pid,place,label,object_type,format,description,time,decade,content,order
+news_1,Chikmagalur,1970s political context,newspaper,pdf,Indira to run from Chikmagalur',"September 27, 1978",1970-1980,article,1
+news_2,Chikmagalur,1970s political context,newspaper,pdf,"Indira is a habitual liar, says Hegde","October 27, 1978",1970-1980,article,2
+news_3,Chikmagalur,1970s political context,newspaper,pdf,PM to keep off Chikmagalur',"October 18, 1978",1970-1980,article,3
+news_4,Chikmagalur,1970s political context,newspaper,pdf,Return of Indiramma: Chikmagalur and After',"November 9, 1978",1970-1980,article,4
+news_5,Chikmagalur,1970s political context,newspaper,pdf,Sleepy Town of Chikmagalur',"October 25, 1978",1970-1980,article,5
+fieldstn_1,Kadari,fieldstation,photo,jpeg,View from the upper floor of areca trees,"October 11, 2017",2010-2020,trees,6
+fieldstn_2,Kadari,fieldstation,photo,jpeg,View towards the right of the fieldstation of houses,"October 11, 2017",2010-2020,houses;; ground,7
+fieldstn_3,Kadari,fieldstation,photo,jpeg,View of the verandah of the fieldstation,"October 11, 2017",2010-2020,house,8
+kalasa_1,Kalasa,Township,photo,jpeg,View from the hotel,"July 14, 2016",2010-2020,settlements;; house,9
+kalasa_2,Kalasa,Township,photo,jpeg,View of tea plantations ,"June 25, 2015",2010-2020,plantation,10
+kmukh_1,Kudremukh,forest,photo,jpeg,"resin growing in the forest, used by S for income outside of lab fieldwork ","October 12, 2017",2010-2020,tree;; resin,11
+kmukh_2,Kudremukh,national park ,photo,jpeg,old photo to the entrance of the KNP without the entrance structure,"October 12, 2017",2010-2020,people;; park;; settings,12
+kmukh_3,Kudremukh,national park ,photo,jpeg,view of the shola mountains inside the national park while driving,"June 25, 2015",2010-2020,mountains,13
+kmukh_4,Kudremukh,national park ,photo,jpeg,view of the Bhadra river siltation during the heavy monsoon,"June 25, 2015",2010-2020,river,14
+kmukh_5,Kudremukh,national park ,photo,jpeg,view of the road lined with the pteridium aquilinum weed fern,"November 13, 2018",2010-2020,road;; vegetation,15
+kmukh_6,Kudremukh,national park ,photo,jpeg,view of the road and mist inside the park during the monsoon,"Nov 13, 2018",2010-2020,road;; vegetation,16
+kmukh_7,Kudremukh,national park ,photo,jpeg,view of the KNP entrance with the structure,"Feb 3, 2018",2010-2020,people;; park;; settings,17
+mang_1,Mangaluru,industrial SEZ,photo,jpeg,Close up of the boiler of the factory,"June 15, 15",2010-2020,road;; boiler,18
+mang_2,Mangaluru,industrial SEZ,photo,jpeg,factory near Karkala,"June 15, 2015",2010-2020,road;; smoke;;,19
+mang_3,Mangaluru,industrial SEZ,photo,jpeg,Kudremukh hoardings in Mangalore,"November 13, 2018",2010-2020,road;; machinery,20
+map_1,Mysore state,iron-ore deposits,map,pdf,map of the mysore state showing iron ore deposits,"November 11, 1962",1960–1970,roads;; railways;; river;; iron ore,21
+map_2,Kudremukh;; Gangamula,iron-ore deposits,map,jpeg,large scale map of kudremukh region showing the iron ore deposits,1912,1910–1920,schist;; quartzite;; gneiss;; Sampat Iyengar,22

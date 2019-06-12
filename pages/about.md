@@ -6,8 +6,9 @@ permalink: /about/
 
 Freegan hot chicken pinterest **cloud bread.** Single-origin coffee vinyl salvia narwhal ethical. Woke artisan single-origin coffee before they sold out, *blue bottle enamel pin succulents* disrupt chartreuse cold-pressed photo booth bicycle rights yuccie. Live-edge glossier kinfolk intelligentsia, ennui lumbersexual church-key health goth vape af. Distillery chartreuse ***copper mug everyday carry truffaut*** waistcoat locavore prism kinfolk forage. Yeah.
 
+#Introduction
 **Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs,\*\* sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
 
 **Wax is an extensible workflow based on minimal computing principles.**  
 Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
@@ -45,6 +46,4 @@ Below is a diagram to give you a zoomed-out view. In summary, you create a file 
 
 From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
 
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+< iframe width="560" height="315" src="https://www.youtube.com/embed/x92g01IsymM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
