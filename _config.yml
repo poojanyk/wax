@@ -66,11 +66,11 @@ collections:
     output: true
   karnataka: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'karnataka_item' # the layout for the pages to use
+    layout: 'karnataka_item.html' # the layout for the pages to use
     metadata:
       source: 'karnataka_records.csv' # path to the metadata file within `_data`
     images:
-      source: 'karnataka_images' # path to the directory of images within `_data`
+      source: 'karnatakaimages' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS

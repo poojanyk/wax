@@ -8,5 +8,3 @@ This site's sample collection comprises a set of objects, each of which is repre
 
 
 {% include collection_gallery.html collection='karnataka' facet_by='place' %}
-{% include collection_gallery.html collection='karnataka' facet_by='object_type' %}
-{% include collection_gallery.html collection='karnataka' facet_by='decade' %}
